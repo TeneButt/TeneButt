@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TeneButt
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning C#
+- 📫 How to reach me: TeneButt#0162 on discord.
